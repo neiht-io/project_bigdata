@@ -18,7 +18,7 @@ comments_analysis.ipynb
 
 
 # youtube
-# doc[data-manual-processing: hand_s](https://github.com/neiht-io/project_bigdata/blob/main/PH%C3%82N%20T%C3%8DCH%20FACEBOOK%20.docx)  + ppx
+# [docx](https://github.com/neiht-io/project_bigdata/blob/main/PH%C3%82N%20T%C3%8DCH%20FACEBOOK%20.docx)  + ppx
 
 # kết quả 
 
