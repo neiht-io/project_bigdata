@@ -19,7 +19,7 @@ comments_analysis.ipynb
 
 # youtube
 # doc + ppx
-
+[DOC](https://github.com/neiht-io/project_bigdata/tree/main/project_facebook_bigdata/hand_s)
 # kết quả 
 
 ![image](https://github.com/neiht-io/project_bigdata/assets/124896934/01784659-d3a9-4156-a4ca-b473e889eef9)
