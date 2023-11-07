@@ -18,6 +18,11 @@ comments_analysis.ipynb
 
 
 # youtube
+
+https://youtu.be/32hDdZeS7Go?si=RSxElnTtY_qLa1qj
+
+https://youtu.be/0O_1evgVUHk?si=8vFYGK_5NJIXL3mQ
+
 # [bản docx](https://github.com/neiht-io/project_bigdata/blob/main/PHAN-TICH-SU-QUAN-TAM-FACEBOOK.docx)  
 # [bản PPTX](https://github.com/neiht-io/project_bigdata/blob/main/pr-bigdatA.pptx)
 
